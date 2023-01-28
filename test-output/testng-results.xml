@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-29T01:01:52 GMT+02:00" name="Default suite" finished-at="2023-01-29T01:03:15 GMT+02:00" duration-ms="83276">
+    <groups>
+    </groups>
+    <test started-at="2023-01-29T01:01:52 GMT+02:00" name="Default test" finished-at="2023-01-29T01:03:15 GMT+02:00" duration-ms="83276">
+      <class name="Product_Store.productStoreTestNG">
+        <test-method is-config="true" signature="pre_Test()[pri:0, instance:Product_Store.productStoreTestNG@67d48005]" started-at="2023-01-29T01:01:52 GMT+02:00" name="pre_Test" finished-at="2023-01-29T01:01:57 GMT+02:00" duration-ms="4911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pre_Test -->
+        <test-method signature="Check_The_Title()[pri:1, instance:Product_Store.productStoreTestNG@67d48005]" started-at="2023-01-29T01:01:57 GMT+02:00" name="Check_The_Title" finished-at="2023-01-29T01:01:57 GMT+02:00" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_The_Title -->
+        <test-method signature="images_Slider_Check()[pri:2, instance:Product_Store.productStoreTestNG@67d48005]" started-at="2023-01-29T01:01:57 GMT+02:00" name="images_Slider_Check" finished-at="2023-01-29T01:01:57 GMT+02:00" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- images_Slider_Check -->
+        <test-method signature="Validate_Contact_Form_Information()[pri:3, instance:Product_Store.productStoreTestNG@67d48005]" started-at="2023-01-29T01:01:57 GMT+02:00" name="Validate_Contact_Form_Information" finished-at="2023-01-29T01:02:00 GMT+02:00" duration-ms="3006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Contact_Form_Information -->
+        <test-method signature="SignUp_Login()[pri:4, instance:Product_Store.productStoreTestNG@67d48005]" started-at="2023-01-29T01:02:00 GMT+02:00" name="SignUp_Login" finished-at="2023-01-29T01:02:12 GMT+02:00" duration-ms="11837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUp_Login -->
+        <test-method signature="Buy_Product()[pri:5, instance:Product_Store.productStoreTestNG@67d48005]" started-at="2023-01-29T01:02:12 GMT+02:00" name="Buy_Product" finished-at="2023-01-29T01:02:54 GMT+02:00" duration-ms="41942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Buy_Product -->
+        <test-method signature="Check_Cart()[pri:6, instance:Product_Store.productStoreTestNG@67d48005]" started-at="2023-01-29T01:02:54 GMT+02:00" name="Check_Cart" finished-at="2023-01-29T01:02:57 GMT+02:00" duration-ms="3323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_Cart -->
+        <test-method signature="Checkout()[pri:7, instance:Product_Store.productStoreTestNG@67d48005]" started-at="2023-01-29T01:02:57 GMT+02:00" name="Checkout" finished-at="2023-01-29T01:03:08 GMT+02:00" duration-ms="10342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout -->
+        <test-method is-config="true" signature="afterMyTest()[pri:0, instance:Product_Store.productStoreTestNG@67d48005]" started-at="2023-01-29T01:03:08 GMT+02:00" name="afterMyTest" finished-at="2023-01-29T01:03:15 GMT+02:00" duration-ms="7619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMyTest -->
+      </class> <!-- Product_Store.productStoreTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
